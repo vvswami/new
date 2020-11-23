@@ -9,6 +9,8 @@ public class sample {
 
 		c = a + b;
 		System.out.println(c);
+		System.out.println("print successfully");
+			
 	}
 
 }
