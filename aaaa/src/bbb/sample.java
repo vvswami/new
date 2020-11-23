@@ -12,6 +12,7 @@ public class sample {
 		d=a+b+c;
 		System.out.println(c);
 		System.out.println("print successfully");
+		done my change
 		
 			
 	}
