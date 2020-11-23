@@ -15,6 +15,10 @@ public class sample {
 		System.out.println(d);
 
 		System.out.println("Today i have lean create branch and pull and push in github" );
+		
+		javascriptExecute js=(executescript)driver;
+		js.executescript("window.scrollBy(0,300)");
+		
 
 			
 	}
