@@ -15,6 +15,7 @@ public class sample {
 		System.out.println(d);
 
 		System.out.println("Today i have lean create branch and pull and push in github" );
+		system.out.println("jaba script Remove in this code")
 		
 		
 		
