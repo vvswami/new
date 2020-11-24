@@ -12,7 +12,7 @@ public class sample {
 		d=a+b+c;
 		System.out.println(c);
 		System.out.println("print successfully");
-		System.out.println(d);
+		
 
 		System.out.println("Today i have lean create branch and pull and push in github" );
 		
