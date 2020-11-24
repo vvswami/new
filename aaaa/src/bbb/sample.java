@@ -6,16 +6,12 @@ public class sample {
 		int a = 10;
 		int b = 20;
 		int c;
-		int d;
+		
 
 		c = a + b;
 		d=a+b+c;
 		System.out.println(c);
-		System.out.println("print successfully");
-		System.out.println(d);
-
-		System.out.println("Today i have lean create branch and pull and push in github" );
-		system.out.println("jaba script Remove in this code")
+		System.out.println(" Total sum completed +a");
 		
 		
 		
